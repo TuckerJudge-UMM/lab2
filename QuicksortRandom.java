@@ -2,7 +2,7 @@
 
 import java.util.Random;
 
-public class QuicksortRandom {
+public class QuicksortRandom implements QuicksortInterface {
     public void qsort(TestInteger[] arr, int p, int r){
         if(p < r){
             Random gen = new Random();

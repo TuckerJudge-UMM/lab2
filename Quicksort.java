@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Quicksort {
+public class Quicksort implements QuicksortInterface {
     public void qsort(TestInteger[] arr, int p, int r){
         if(p < r){
             int q = Partition(arr, p, r);

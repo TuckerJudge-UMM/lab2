@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class QuicksortMedian {
+public class QuicksortMedian implements QuicksortInterface {
     public void qsort(TestInteger[] arr, int p, int r){
         if(p < r){
             Random gen = new Random();
