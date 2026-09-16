@@ -3,6 +3,12 @@ import java.util.Random;
 public class QuicksortMedian implements QuicksortInterface {
     public void qsort(TestInteger[] arr, int p, int r){
         if(p < r){
+            if(r - p < 5){ //test for optimal threshold value
+                int q = Partition(arr, p, r);
+
+                qsort(arr, p, q-1);
+                qsort(arr, q+1, r); 
+            }
             Random gen = new Random();
             int a = gen.nextInt(p, r+1);
             int b = gen.nextInt(p, r+1);
