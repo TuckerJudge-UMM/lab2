@@ -1,6 +1,9 @@
 import java.util.Random;
 
 public class QuicksortMedian implements QuicksortInterface {
+    public String toString(){
+        return "QuicksortMedian";
+    }
     public void qsort(TestInteger[] arr, int p, int r){
         if(p < r){
             if(r - p < 5){ //test for optimal threshold value

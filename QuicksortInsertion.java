@@ -1,6 +1,10 @@
 import java.util.Random;
 
 public class QuicksortInsertion implements QuicksortInterface {
+    public String toString() {
+        return "QuicksortInsertion";
+    }
+
     public void qsort(TestInteger[] arr, int p, int r){
         if(p + 5 < r){
             int q = Partition(arr, p, r);

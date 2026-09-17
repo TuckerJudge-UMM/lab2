@@ -1,0 +1,47 @@
+Tim sort: 120364
+Tim sort: 120440
+Tim sort: 120353
+Tim sort: 120436
+Tim sort: 120305
+
+Our Quicksort: 157952
+Our Quicksort: 157917
+Our Quicksort: 153421
+Our Quicksort: 166283
+Our Quicksort: 164701
+
+Our Quicksort Sorted: 50115343
+Our Quicksort Sorted: 50115300
+Our Quicksort Sorted: 50115443
+Our Quicksort Sorted: 50115337
+Our Quicksort Sorted: 50115340
+
+Tim sort sorted: 9999
+Tim sort sorted: 9999
+Tim sort sorted: 9999
+Tim sort sorted: 9999
+Tim sort sorted: 9999
+
+SubArray Quicksort: 4995000
+SubArray Quicksort: 4995000
+SubArray Quicksort: 4995000
+SubArray Quicksort: 4995000
+SubArray Quicksort: 4995000
+
+SubArray Tim sort: 9990
+SubArray Tim sort: 9990
+SubArray Tim sort: 9990
+SubArray Tim sort: 9990
+SubArray Tim sort: 9990
+
+SubArray Reversed Quicksort: 2505020
+SubArray Reversed Quicksort: 2505052
+SubArray Reversed Quicksort: 2505011
+SubArray Reversed Quicksort: 2505026
+SubArray Reversed Quicksort: 2505072
+
+SubArray Reversed Tim sort: 9990
+SubArray Reversed Tim sort: 9990
+SubArray Reversed Tim sort: 9990
+SubArray Reversed Tim sort: 9990
+SubArray Reversed Tim sort: 9990

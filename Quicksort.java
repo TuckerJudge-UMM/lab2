@@ -1,4 +1,5 @@
 import java.util.Random;
+import java.util.Arrays;
 
 public class Quicksort implements QuicksortInterface {
     public void qsort(TestInteger[] arr, int p, int r){
@@ -36,9 +37,9 @@ public class Quicksort implements QuicksortInterface {
             TestInteger num = new TestInteger(gen.nextInt(0,1000000));
             arr[i] = num;
         }
-
         Quicksort qs = new Quicksort();
-        qs.qsort(arr,0, arr.length-1);
+        Arrays.sort(arr);
+        // qs.qsort(arr,0, arr.length-1);
         for (int i = 0; i<n;i++){
             System.out.println(arr[i].value);
         }
