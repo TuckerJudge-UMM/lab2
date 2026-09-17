@@ -50,7 +50,7 @@ public class QuicksortRandom implements QuicksortInterface {
             arr[i] = num;
         }
 
-        Quicksort qs = new Quicksort();
+        QuicksortRandom qs = new QuicksortRandom();
         qs.qsort(arr,0, arr.length-1);
         for (int i = 0; i<n;i++){
             System.out.println(arr[i].value);

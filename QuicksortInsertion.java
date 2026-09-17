@@ -55,7 +55,7 @@ public class QuicksortInsertion implements QuicksortInterface {
             arr[i] = num;
         }
 
-        Quicksort qs = new Quicksort();
+        QuicksortInsertion qs = new QuicksortInsertion();
         qs.qsort(arr,0, arr.length-1);
         for (int i = 0; i<n;i++){
             System.out.println(arr[i].value);

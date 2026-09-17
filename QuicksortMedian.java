@@ -18,9 +18,13 @@ public class QuicksortMedian implements QuicksortInterface {
             int c = gen.nextInt(p, r+1);
 
             int q = indexOfMedian(arr, a, b, c);
-
-            qsort(arr, p, q-1);
-            qsort(arr, q+1, r); 
+            TestInteger temp = arr[q];
+            arr[q] = arr[r];
+            arr[r] = temp;
+            
+            int m = Partition(arr, p, r);
+            qsort(arr, p, m-1);
+            qsort(arr, m+1, r); 
         }
     }
 
@@ -61,7 +65,7 @@ public class QuicksortMedian implements QuicksortInterface {
             arr[i] = num;
         }
 
-        Quicksort qs = new Quicksort();
+        QuicksortMedian qs = new QuicksortMedian();
         qs.qsort(arr,0, arr.length-1);
         for (int i = 0; i<n;i++){
             System.out.println(arr[i].value);
