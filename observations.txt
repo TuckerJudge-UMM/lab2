@@ -1,0 +1,13 @@
+All your conclusions and observations:
+
+How do different versions of sorting act differently? 
+
+Tim sort is hard to beat. Some sorting algos are more 'stable' than others, they react well to all forms and sizes of data. Tim sort was very consistent, and even Random Index was consistent when dealing with different types of data. Whereas, Insertion sort definitely requires a lower n size set to make it optimal. 
+
+How do different kinds of data affect each kind of the sorting? 
+
+A lot, but not if you prepare for all possible cases like Tim Sort. Tim Sort was fairly stable in our measurements for part 1, whereas ours struggled with worst case scenarios.
+
+Which improvements of quicksort performed better? If you can provide an explanation, please do, but it's not required. 
+
+Median of 3 prepared much better overall. Random Index was better. All of them were better except for insertion sort sub arrays.

@@ -1,46 +1,46 @@
 
-Regular Sort: QuicksortRandom 102783
-Regular Sort: QuicksortRandom 98713
-Regular Sort: QuicksortRandom 117753
-Regular Sort: QuicksortRandom 95325
-Regular Sort: QuicksortRandom 104325
-SubArray Quicksort: QuicksortRandom 55435
-SubArray Quicksort: QuicksortRandom 58020
-SubArray Quicksort: QuicksortRandom 53742
-SubArray Quicksort: QuicksortRandom 54833
-SubArray Quicksort: QuicksortRandom 57015
-SubArray Reversed Quicksort: QuicksortRandom 89036
-SubArray Reversed Quicksort: QuicksortRandom 101238
-SubArray Reversed Quicksort: QuicksortRandom 86997
-SubArray Reversed Quicksort: QuicksortRandom 91116
-SubArray Reversed Quicksort: QuicksortRandom 88074
-Regular Sort: QuicksortMedian 47438
-Regular Sort: QuicksortMedian 47695
-Regular Sort: QuicksortMedian 46911
-Regular Sort: QuicksortMedian 47336
-Regular Sort: QuicksortMedian 46315
-SubArray Quicksort: QuicksortMedian 55556
-SubArray Quicksort: QuicksortMedian 55799
-SubArray Quicksort: QuicksortMedian 55275
-SubArray Quicksort: QuicksortMedian 55065
-SubArray Quicksort: QuicksortMedian 55397
-SubArray Reversed Quicksort: QuicksortMedian 55454
-SubArray Reversed Quicksort: QuicksortMedian 55458
-SubArray Reversed Quicksort: QuicksortMedian 55832
-SubArray Reversed Quicksort: QuicksortMedian 54992
-SubArray Reversed Quicksort: QuicksortMedian 54894
-Regular Sort: QuicksortInsertion 153279
-Regular Sort: QuicksortInsertion 154683
-Regular Sort: QuicksortInsertion 144435
-Regular Sort: QuicksortInsertion 149880
-Regular Sort: QuicksortInsertion 150490
-SubArray Quicksort: QuicksortInsertion 4994890
-SubArray Quicksort: QuicksortInsertion 4994890
-SubArray Quicksort: QuicksortInsertion 4994890
-SubArray Quicksort: QuicksortInsertion 4994890
-SubArray Quicksort: QuicksortInsertion 4994890
-SubArray Reversed Quicksort: QuicksortInsertion 2505020
-SubArray Reversed Quicksort: QuicksortInsertion 2505014
-SubArray Reversed Quicksort: QuicksortInsertion 2505012
-SubArray Reversed Quicksort: QuicksortInsertion 2505024
-SubArray Reversed Quicksort: QuicksortInsertion 2505019
+Regular Sort: QuicksortRandom 173951
+Regular Sort: QuicksortRandom 149288
+Regular Sort: QuicksortRandom 156809
+Regular Sort: QuicksortRandom 153135
+Regular Sort: QuicksortRandom 150549
+SubArray Quicksort: QuicksortRandom 108915
+SubArray Quicksort: QuicksortRandom 108796
+SubArray Quicksort: QuicksortRandom 107764
+SubArray Quicksort: QuicksortRandom 111200
+SubArray Quicksort: QuicksortRandom 110627
+SubArray Reversed Quicksort: QuicksortRandom 107841
+SubArray Reversed Quicksort: QuicksortRandom 108775
+SubArray Reversed Quicksort: QuicksortRandom 111085
+SubArray Reversed Quicksort: QuicksortRandom 115102
+SubArray Reversed Quicksort: QuicksortRandom 108577
+Regular Sort: QuicksortMedian 47240
+Regular Sort: QuicksortMedian 47200
+Regular Sort: QuicksortMedian 46860
+Regular Sort: QuicksortMedian 46218
+Regular Sort: QuicksortMedian 47000
+SubArray Quicksort: QuicksortMedian 54849
+SubArray Quicksort: QuicksortMedian 56114
+SubArray Quicksort: QuicksortMedian 56066
+SubArray Quicksort: QuicksortMedian 55632
+SubArray Quicksort: QuicksortMedian 56012
+SubArray Reversed Quicksort: QuicksortMedian 56087
+SubArray Reversed Quicksort: QuicksortMedian 55960
+SubArray Reversed Quicksort: QuicksortMedian 55848
+SubArray Reversed Quicksort: QuicksortMedian 54687
+SubArray Reversed Quicksort: QuicksortMedian 56520
+Regular Sort: QuicksortInsertion 166044
+Regular Sort: QuicksortInsertion 154486
+Regular Sort: QuicksortInsertion 147944
+Regular Sort: QuicksortInsertion 148210
+Regular Sort: QuicksortInsertion 165404
+SubArray Quicksort: QuicksortInsertion 4994210
+SubArray Quicksort: QuicksortInsertion 4994210
+SubArray Quicksort: QuicksortInsertion 4994210
+SubArray Quicksort: QuicksortInsertion 4994210
+SubArray Quicksort: QuicksortInsertion 4994210
+SubArray Reversed Quicksort: QuicksortInsertion 2505071
+SubArray Reversed Quicksort: QuicksortInsertion 2505054
+SubArray Reversed Quicksort: QuicksortInsertion 2505048
+SubArray Reversed Quicksort: QuicksortInsertion 2505043
+SubArray Reversed Quicksort: QuicksortInsertion 2505048

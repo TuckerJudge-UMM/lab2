@@ -6,7 +6,7 @@ public class QuicksortInsertion implements QuicksortInterface {
     }
 
     public void qsort(TestInteger[] arr, int p, int r){
-        if(p + 5 < r){
+        if(p + 13 < r){
             int q = Partition(arr, p, r);
 
             qsort(arr, p, q-1);
