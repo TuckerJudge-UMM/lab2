@@ -17,10 +17,10 @@ public class QuicksortInsertion implements QuicksortInterface {
     }
 
     public void insertionSort(TestInteger[] arr, int p, int r){
-        for(int i = p; p < r; i++){
+        for(int i = p; i < r; i++){
             TestInteger key = arr[i];
             int j = i - 1;
-            while(j >= 0 && arr[j].compareTo(key) > 0){
+            while(j >= p && arr[j].compareTo(key) > 0){
                 arr[j+1] = arr[j];
                 j--;
             }
