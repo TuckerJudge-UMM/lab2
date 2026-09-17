@@ -149,7 +149,7 @@ class TimeTesting {
                 // Our Quicksort Sorted
                 qs.qsort(subarrsreversed[l], 0, 999);
             }
-            System.out.print("\nSubArray Reversed Quicksort: " + TestInteger.counter);
+            System.out.print("\nSubArray Reversed Quicksort: " + qs.toString() + " " + TestInteger.counter);
             TestInteger.counter = 0;
         }
     }

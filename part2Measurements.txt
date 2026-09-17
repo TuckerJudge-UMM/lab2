@@ -1,31 +1,46 @@
 
-Regular Sort: QuicksortRandom 0
-Regular Sort: QuicksortRandom 0
-Regular Sort: QuicksortRandom 0
-Regular Sort: QuicksortRandom 0
-Regular Sort: QuicksortRandom 0
-SubArray Quicksort: QuicksortRandom 0
-SubArray Quicksort: QuicksortRandom 0
-SubArray Quicksort: QuicksortRandom 0
-SubArray Quicksort: QuicksortRandom 0
-SubArray Quicksort: QuicksortRandom 0
-SubArray Reversed Quicksort: 0
-SubArray Reversed Quicksort: 0
-SubArray Reversed Quicksort: 0
-SubArray Reversed Quicksort: 0
-SubArray Reversed Quicksort: 0
-Regular Sort: QuicksortMedian 46878
-Regular Sort: QuicksortMedian 47830
-Regular Sort: QuicksortMedian 46941
-Regular Sort: QuicksortMedian 46549
-Regular Sort: QuicksortMedian 46639
-SubArray Quicksort: QuicksortMedian 55091
-SubArray Quicksort: QuicksortMedian 55384
-SubArray Quicksort: QuicksortMedian 55518
-SubArray Quicksort: QuicksortMedian 55299
-SubArray Quicksort: QuicksortMedian 55591
-SubArray Reversed Quicksort: 56022
-SubArray Reversed Quicksort: 55445
-SubArray Reversed Quicksort: 55388
-SubArray Reversed Quicksort: 56207
-SubArray Reversed Quicksort: 55396
+Regular Sort: QuicksortRandom 102783
+Regular Sort: QuicksortRandom 98713
+Regular Sort: QuicksortRandom 117753
+Regular Sort: QuicksortRandom 95325
+Regular Sort: QuicksortRandom 104325
+SubArray Quicksort: QuicksortRandom 55435
+SubArray Quicksort: QuicksortRandom 58020
+SubArray Quicksort: QuicksortRandom 53742
+SubArray Quicksort: QuicksortRandom 54833
+SubArray Quicksort: QuicksortRandom 57015
+SubArray Reversed Quicksort: QuicksortRandom 89036
+SubArray Reversed Quicksort: QuicksortRandom 101238
+SubArray Reversed Quicksort: QuicksortRandom 86997
+SubArray Reversed Quicksort: QuicksortRandom 91116
+SubArray Reversed Quicksort: QuicksortRandom 88074
+Regular Sort: QuicksortMedian 47438
+Regular Sort: QuicksortMedian 47695
+Regular Sort: QuicksortMedian 46911
+Regular Sort: QuicksortMedian 47336
+Regular Sort: QuicksortMedian 46315
+SubArray Quicksort: QuicksortMedian 55556
+SubArray Quicksort: QuicksortMedian 55799
+SubArray Quicksort: QuicksortMedian 55275
+SubArray Quicksort: QuicksortMedian 55065
+SubArray Quicksort: QuicksortMedian 55397
+SubArray Reversed Quicksort: QuicksortMedian 55454
+SubArray Reversed Quicksort: QuicksortMedian 55458
+SubArray Reversed Quicksort: QuicksortMedian 55832
+SubArray Reversed Quicksort: QuicksortMedian 54992
+SubArray Reversed Quicksort: QuicksortMedian 54894
+Regular Sort: QuicksortInsertion 153279
+Regular Sort: QuicksortInsertion 154683
+Regular Sort: QuicksortInsertion 144435
+Regular Sort: QuicksortInsertion 149880
+Regular Sort: QuicksortInsertion 150490
+SubArray Quicksort: QuicksortInsertion 4994890
+SubArray Quicksort: QuicksortInsertion 4994890
+SubArray Quicksort: QuicksortInsertion 4994890
+SubArray Quicksort: QuicksortInsertion 4994890
+SubArray Quicksort: QuicksortInsertion 4994890
+SubArray Reversed Quicksort: QuicksortInsertion 2505020
+SubArray Reversed Quicksort: QuicksortInsertion 2505014
+SubArray Reversed Quicksort: QuicksortInsertion 2505012
+SubArray Reversed Quicksort: QuicksortInsertion 2505024
+SubArray Reversed Quicksort: QuicksortInsertion 2505019

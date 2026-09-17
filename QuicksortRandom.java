@@ -11,8 +11,11 @@ public class QuicksortRandom implements QuicksortInterface {
             Random gen = new Random();
             int q = gen.nextInt(p, r+1);
             
-            qsort(arr, p, q-1);
-            qsort(arr, q+1, r); 
+            int m = Partition(arr, p, q);
+            qsort(arr, p, m-1);
+            qsort(arr, m+1, r); 
+            // qsort(arr, p, q-1);
+            // qsort(arr, q+1, r); 
         }
     }
 
